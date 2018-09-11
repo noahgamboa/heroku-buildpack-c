@@ -25,4 +25,4 @@ fi
 
 # make
 echo "-----> Compiling with Make"
-make compile-napi-linux 2>&1 | indent
+make compile-cxx 2>&1 | indent
